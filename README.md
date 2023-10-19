@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
         <nav>
 <a href="index.html"> home </a>
 <a href="produtos.html"> produtos </a>
-        <a href="SUPLEMENTOS"></a>https://www.gsnsuplementos.com.br/categoria/creatina/</nav>
+        <title>SUPLEMENTOS</title>
     </header>
     
     <h1> GROWTH </h1>
